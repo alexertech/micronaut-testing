@@ -6,15 +6,23 @@
 - [Micronaut Guides](https://guides.micronaut.io/index.html)
 ---
 
-## Feature jdbc-hikari documentation
+## Feature http-client documentation
 
-- [Micronaut Hikari JDBC Connection Pool documentation](https://micronaut-projects.github.io/micronaut-sql/latest/guide/index.html#jdbc)
+- [Micronaut HTTP Client documentation](https://docs.micronaut.io/latest/guide/index.html#httpClient)
 
 ## Feature data-jdbc documentation
 
 - [Micronaut Data JDBC documentation](https://micronaut-projects.github.io/micronaut-data/latest/guide/index.html#jdbc)
 
-## Feature http-client documentation
+## Feature testcontainers documentation
 
-- [Micronaut HTTP Client documentation](https://docs.micronaut.io/latest/guide/index.html#httpClient)
+- [https://www.testcontainers.org/](https://www.testcontainers.org/)
+
+## Feature management documentation
+
+- [Micronaut Management documentation](https://docs.micronaut.io/latest/guide/index.html#management)
+
+## Feature jdbc-hikari documentation
+
+- [Micronaut Hikari JDBC Connection Pool documentation](https://micronaut-projects.github.io/micronaut-sql/latest/guide/index.html#jdbc)
 
